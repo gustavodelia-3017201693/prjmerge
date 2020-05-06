@@ -1,0 +1,1 @@
+Select svsdale from dual;
